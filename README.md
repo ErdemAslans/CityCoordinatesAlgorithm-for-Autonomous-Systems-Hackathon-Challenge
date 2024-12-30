@@ -32,25 +32,12 @@ This project is designed to tackle the classical TSP problem, commonly applied i
 
 ---
 
-## Prerequisites
-
-Make sure you have the following installed:
-
-- **Python 3.8+**
-- Required libraries (install using `requirements.txt`):
-  ```bash
-  pip install -r requirements.txt
-  ```
-
----
-
 ## File Structure
 
 ```
 project_root/
 |-- CityCoordinatesAlgorithm.py   # Main project script
 |-- coordinates.csv               # Example dataset (add your own if needed)
-|-- requirements.txt              # Python dependencies
 |-- README.md                     # Project documentation
 |-- images/                       # Directory for visualization images
     |-- city_scatter.png          # Scatter plot of city coordinates
